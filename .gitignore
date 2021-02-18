@@ -31,14 +31,15 @@ stack.yaml
 .DS_Store
 marinaaoki-github-io.cabal
 
-site.hs
-about.rst
-contact.markdown
-index.html
+/site.hs
+/about.rst
+/contact.markdown
+/index.html
 
-css/
-images/
-posts/
-templates/
+/css/
+/images/
+/posts/
+/templates/
+
 
 README.md
