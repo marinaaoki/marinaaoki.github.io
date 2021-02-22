@@ -1,2 +1,1 @@
-# marinaaoki.github.io
-Personal blog
+My personal Github Pages blog using Hakyll
